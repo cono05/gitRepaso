@@ -5,3 +5,5 @@ agrega boton
 esta modificacion es en la nueva rama "test"
 
 esta modificacion es en la rama "Texto"
+
+este cambio se realiza despues de clonar el repositorio remoto y haber subido el contenido del local al remoto.

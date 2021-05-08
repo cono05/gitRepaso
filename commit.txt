@@ -1,0 +1,17 @@
+commit 3cc5462cffd146b49da075f09796218f3988ecf0
+Author: Cono <rodriguezcono7@gmail.com>
+Date:   Sat May 8 14:35:50 2021 -0300
+
+    segunda modificacion de prueba.txt
+
+commit 23b910668b54d3fe17a76bc651ae0257e129971c
+Author: Cono <rodriguezcono7@gmail.com>
+Date:   Sat May 8 14:29:44 2021 -0300
+
+    agregamos los cambios en el prueba txt
+
+commit 25903da02c376edf00275bd9ba4c1c937d2022c9
+Author: Cono <rodriguezcono7@gmail.com>
+Date:   Sat May 8 14:22:25 2021 -0300
+
+    iniciamos con archivo prueba.txt
